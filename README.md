@@ -5,11 +5,11 @@ This script prevents the client sending `page_focused`, `page_blurred`, and `vis
 # Install
 
 1. First you need a userscript manager such as: **Tampermonkey**
-       - [Chrome](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo) 
+       - [Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) 
        - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
     or **Violentmonkey**
-       - [Chrome](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag) 
-       - [Firefox](https://addons.mozilla.org/firefox/addon/violentmonkey/)
+       - [Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) 
+       - [Firefox](https://addons.mozilla.org/firefox/en-US/addon/violentmonkey/)
 3.  Install the script by clicking [Here](https://github.com/CRD716/canvas-antidetect/raw/master/ad.user.js)!
 
 ## How it works
