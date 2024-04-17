@@ -14,7 +14,7 @@ This script prevents the client sending `page_focused`, `page_blurred`, and `vis
 
 ## How it works
 
-Canvas has an `event_manager` which track user interactions.
+Canvas has an `event_manager` which tracks user interactions.
 
 The `page_focused`, `page_blurred`, and `visibilitychange` events are registered with jquery in `event_tracker.js`:
 
