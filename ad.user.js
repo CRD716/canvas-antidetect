@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Canvas AntiDetect
-// @namespace    https://github.com/imdonix/canvas-antidetect
-// @version      0.4
-// @downloadURL  https://github.com/imdonix/canvas-antidetect/raw/master/ad.user.js
-// @description  Prevent canvas to detect blur and focus events.
+// @namespace    https://github.com/CRD716/canvas-antidetect
+// @version      0.5
+// @downloadURL  https://github.com/CRD716/canvas-antidetect/raw/master/ad.user.js
+// @description  Prevent canvas detecting blur and focus events.
 // @author       donix
-// @include      https://canvas.elte.hu/*
+// @include      https://*/courses/*/quizzes/*/take*
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
